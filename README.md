@@ -30,7 +30,7 @@ Zudem ist es notwendig, das Datenbankschema anzulegen. Dir steht es frei dies mi
 Dir stehen grundsätzlich alle möglichen Quellen zur Bearbeitung der Aufgabe zur Verfügung. Inbesondere sind auch Fragen an anwesende Person ausdrücklich erwünscht.
 
 
-** WICHTIG !!! **
+### WICHTIG !!!
 Die Aufgabe ist absichtlich derart gestaltet, dass du vermutlich nicht alles vollständig erfüllen kannst. 
 Wir möchten dir vielmehr die Freiheit überlassen, die Herangehensweise an eine solche Aufgabe zu präsentieren.
 
