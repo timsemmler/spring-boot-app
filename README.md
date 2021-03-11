@@ -32,7 +32,7 @@ Dir stehen grundsätzlich alle möglichen Quellen zur Bearbeitung der Aufgabe zu
 
 ### WICHTIG !!!
 Die Aufgabe ist absichtlich derart gestaltet, dass du vermutlich nicht alles vollständig erfüllen kannst. 
-Wir möchten dir vielmehr die Freiheit überlassen, die Herangehensweise an eine solche Aufgabe zu präsentieren.
+Viel wichtiger für uns ist es, zu verstehen, wie deine Herangehensweise an eine solche Aufgabe ist.
 
 
 ## Zustätzliche Informationen
