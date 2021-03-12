@@ -1,4 +1,4 @@
-.settings/
-.idea/
-target/
 todo-app.iml
+/.idea/
+/.settings/
+/target/
