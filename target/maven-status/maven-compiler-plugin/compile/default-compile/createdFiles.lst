@@ -1,0 +1,6 @@
+de\rossmann\todo\domain\TasklistRepository.class
+de\rossmann\todo\domain\Tasklist.class
+de\rossmann\todo\service\TasklistService.class
+de\rossmann\todo\Application.class
+de\rossmann\todo\service\TasklistServiceImpl.class
+de\rossmann\todo\controller\RestEndpoint.class
