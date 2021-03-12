@@ -10,5 +10,5 @@ public interface TasklistService {
 
     List<Tasklist> findAll();
 
-    Optional<Tasklist> findByIdAll(Long id);
+    Optional<Tasklist> findSingleById(Long id);
 }

@@ -23,7 +23,7 @@ public class TasklistServiceImpl implements TasklistService {
     }
 
     @Override
-    public Optional<Tasklist> findByIdAll(Long id) {
+    public Optional<Tasklist> findSingleById(Long id) {
         return tasklistRepository.findById(id);
     }
 

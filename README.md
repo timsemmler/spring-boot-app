@@ -13,9 +13,10 @@ Natürlich hast du bereits jetzt schon eine Menge von Anforderungen im Kopf, die
 ### Funktionale Anforderungen
 - Ein User kann mehrere ToDo-Liste haben
 - Jede ToDo-Liste kann mehrere Aufgaben beinhalten
-- Über einen REST-Service könnnen ToDo-Listen neu angelegt und gelöscht werden
-- Über einen REST-Service kann eine Aufgabe zu einer ToDo-Liste hinzugefügt werden
-
+- Es können ToDo-Listen neu angezeigt, angelegt und gelöscht werden
+- Über einen REST-Service kann eine Aufgabe zu einer ToDo-Liste hinzugefügt oder wieder entfernt werden
+- Über einen REST-Endpoint können die ToDo-Listen ausgelesen werden.
+- Optional können auch Create, Update und Delete Operationen über einen REST-Service angeboten werden.
 
 ### Nicht-Funktionale Anforderungen
 - Um die Qualität deiner Software sicherzustellen, möchtests du sinnvolle automatische Tests für deine Software entwickeln.
@@ -41,6 +42,8 @@ Nachdem du die Anwendung geklont hast, kannst du diese mit dem Maven-Befehl `mvn
 Auf die Datenbank kann mit der H2-Webconsole zugegriffen werden.
 
 URL: [`http://localhost:8080/h2-console`](http://localhost:8080/h2-console) \
-JDBC-URL: `jdbc:h2:mem:testdb` \
+JDBC-URL: `jdbc:h2:mem:todo` \
 Username: `sa`\
-Passwort: `<leer>`
+Passwort: `password`
+
+Mittels der Dateien import.sql und schema.sql kann die Datenbank in einen bestimmten Ausgangszustand versetzt werden.
