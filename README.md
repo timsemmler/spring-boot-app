@@ -14,7 +14,6 @@ Natürlich hast du bereits jetzt schon eine Menge von Anforderungen im Kopf, die
 - Ein User kann mehrere ToDo-Liste haben
 - Jede ToDo-Liste kann mehrere Aufgaben beinhalten
 - Es können ToDo-Listen neu angezeigt, angelegt und gelöscht werden
-- Über einen REST-Service kann eine Aufgabe zu einer ToDo-Liste hinzugefügt oder wieder entfernt werden
 - Über einen REST-Endpoint können die ToDo-Listen ausgelesen werden.
 - Optional können auch Create, Update und Delete Operationen über einen REST-Service angeboten werden.
 
